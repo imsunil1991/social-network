@@ -7,6 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## About Social-Network Laravel
+
+Social-Network is a web application with minimal functionalities, such as:
+
+1. Register with email, password and name
+2. Login with email and password
+3. Should be able to search through registered users in the app.
+4. Should be able to send a request to another user to Add Friend.
+5. A user should be able to see the list of Friend Requests and accept the requests.
+6. Show the list of Mutual Friends when a user visits the profile of a friended user.
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
